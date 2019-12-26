@@ -1,0 +1,34 @@
+{
+  "name": "laravel-mix-tailwind-extract",
+  "version": "0.0.1",
+  "description": "Extract tailwind.config.js into a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "tailwind"
+  ],
+  "author": "Tyler Wiegand",
+  "contributors": ["Log1x"],
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "peerDependencies": {
+    "laravel-mix": "^5.0.1",
+    "tailwindcss": "^1.1.4"
+  }
+}
