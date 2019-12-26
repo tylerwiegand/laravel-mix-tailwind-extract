@@ -6,15 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "",
-    "url": ""
-  },
+  "repository": "tylerwiegand/laravel-mix-tailwind-extract",
   "keywords": [
     "laravel",
     "laravel mix",
     "mix",
-    "tailwind"
+    "tailwind",
+    "json"
   ],
   "author": "Tyler Wiegand",
   "contributors": ["Log1x"],
@@ -22,7 +20,7 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "",
+  "homepage": "https://github.com/tylerwiegand/laravel-mix-tailwind-extract",
   "devDependencies": {
     "assert": "^2.0.0",
     "fs": "^0.0.1-security"
