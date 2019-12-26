@@ -20,7 +20,8 @@ class TailwindExtract {
             'Could not resolve Tailwind CSS config.'
         );
 
-        return this.json = resolveConfig(src).theme
+        let config = require(tailwindConfigPath)
+        return this.json = resolveConfig(config).theme
     }
 
     /**
