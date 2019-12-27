@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-tailwind-extract",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extract tailwind.config.js into a JSON file.",
   "main": "index.js",
   "scripts": {
