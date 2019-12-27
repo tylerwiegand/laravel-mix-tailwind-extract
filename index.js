@@ -11,7 +11,7 @@ class TailwindExtract {
      * @param {*} src
      * @param {string} outputPath
      */
-    register(src, outputPath) {
+    register(src = 'tailwind.config.js', outputPath = 'tailwind.json') {
         let tailwindConfigPath = path.resolve(src);
         this.outputPath = outputPath;
 
