@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-tailwind-extract",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Extract tailwind.config.js into a JSON file.",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,18 @@
     "json"
   ],
   "author": "Tyler Wiegand",
-  "contributors": ["Log1x"],
+  "contributors": [
+    {
+      "name": "Brandon (Log1x)",
+      "email": "brandon@tendency.me",
+      "url": "https://log1x.com/"
+    },
+    {
+      "name": "Kenny Eliason",
+      "email": "kenny@neonbrand.com",
+      "url": "https://neonbrand.com/"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": ""
