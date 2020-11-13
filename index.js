@@ -16,7 +16,7 @@ class TailwindExtract {
         this.outputPath = outputPath;
 
         assert(
-            File.exists(tailwindConfigPath),
+            fs.existsSync(tailwindConfigPath),
             'Could not resolve Tailwind CSS config.'
         );
 
