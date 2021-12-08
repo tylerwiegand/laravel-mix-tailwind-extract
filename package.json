@@ -38,6 +38,6 @@
   },
   "peerDependencies": {
     "laravel-mix": "^6.0.0",
-    "tailwindcss": "^2.0.4"
+    "tailwindcss": "^2.0.0"
   }
 }
